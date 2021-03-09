@@ -4,4 +4,4 @@ White Board is a drawing application , in which you can draw with different colo
 
 You can change thickness of pointer and its colour by RGB color picker.
 
-link for the project : https://pranav0221.github.io/White-Board/
+link for the project : https://pranavpatle.github.io/white-board/
